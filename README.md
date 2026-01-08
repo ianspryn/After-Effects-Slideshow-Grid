@@ -1,9 +1,15 @@
 # After-Effects-Slideshow-Grid
 An After Effects script that takes a folder of photos and creates a 3D grid, complete with camera movement from photo to photo. Useful for creating dynamic slideshows for special events, weddings, and more.
 
-<video src='demo.mp4'></video>
 
-<video src='grid.mp4'></video>
+https://github.com/user-attachments/assets/8448de89-6a03-4032-8e5f-0fd25215bcc9
+
+
+
+
+https://github.com/user-attachments/assets/1f6477a1-d2f3-4601-b876-76e9d07291b1
+
+
 
 This project was inspired from [this tutorial](https://www.youtube.com/watch?v=l5-tc_aUOSY), but automated with a script, turning what would take hours to make into seconds.
 
